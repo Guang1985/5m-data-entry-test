@@ -1,4 +1,10 @@
 def swap(x, y):
+
+    function swap(x,y) 
+    { 
+        return [y, x];
+        print ((x,y).isnumeric())
+    }
     """
     Task 1
     - Create a function that would swap the value of x and y using only x and y as variables.
